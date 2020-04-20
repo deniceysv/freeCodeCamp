@@ -239,7 +239,8 @@
     "finance": false,
     "weeks": "12",
     "cities": [
-      "san-francisco"
+      "san-francisco",
+      "new-york-city"
     ]
   },
   {
